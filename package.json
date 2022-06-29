@@ -1,0 +1,24 @@
+{
+  "name": "webinar-sh-rxjs",
+  "version": "1.0.0",
+  "description": "Szkolenie SoftwareHut: RxJS - Bądź reaktywny a nie proaktywny",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszpiotrluczak/webinar-sh-rxjs.git"
+  },
+  "author": "Łukasz Piotr Łuczak <lukasz.luczak@softwarehut.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszpiotrluczak/webinar-sh-rxjs/issues"
+  },
+  "homepage": "https://github.com/lukaszpiotrluczak/webinar-sh-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}

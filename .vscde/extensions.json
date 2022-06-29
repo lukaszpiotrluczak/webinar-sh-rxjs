@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "manuelalabor.rxjs-debugging-for-vs-code"
+  ]
+}
