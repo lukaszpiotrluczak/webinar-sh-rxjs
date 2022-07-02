@@ -1,6 +1,8 @@
 {
   "recommendations": [
     "dbaeumer.vscode-eslint",
-    "manuelalabor.rxjs-debugging-for-vs-code"
+    "manuelalabor.rxjs-debugging-for-vs-code",
+    "nrwl.angular-console",
+    "esbenp.prettier-vscode"
   ]
 }
